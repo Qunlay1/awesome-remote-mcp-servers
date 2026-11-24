@@ -2652,6 +2652,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
   [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
+  - [Luca](https://luca.network/developers/) `https://sandbox.luca.network/mcp/public`
+  [![Luca MCP connector](https://glama.ai/mcp/connectors/network.luca/luca-public/badges/score.svg)](https://glama.ai/mcp/connectors/network.luca/luca-public)
+  🔓 - Accounting for AI spend and agent payments: what Luca records, a sample month closed, and checks of sealed payment records.
 - [Mangrove AI](https://mangrove.ai/agents/) `https://api.mangrovedeveloper.ai/mcp/`
   [![Mangrove AI MCP connector](https://glama.ai/mcp/connectors/io.github.MangroveTechnologies/mangroveai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MangroveTechnologies/mangroveai)
   🔓 - Guardrails for trading agents. Built-in risk management, 100+ tools for strategy R&D, 12+ venues; x402 or API key.
